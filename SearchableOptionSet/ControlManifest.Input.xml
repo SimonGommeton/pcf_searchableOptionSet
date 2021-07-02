@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="SGNamespace" constructor="SearchableOptionSet" version="0.0.1" display-name-key="SearchableOptionSet" description-key="PCF allowing to search through an OptionSet" control-type="standard" preview-image="img/Preview.png" >
+    <property name="InputOptionSet" display-name-key="InputOptionSet" description-key="Define the input option set" of-type="OptionSet" usage="bound" required="true" />
+    <property name="SearchBoxPlaceholder" display-name-key="SearchBoxPlaceholder" description-key="Define Custom Value" of-type="SingleLine.Text" usage="input" required="false" />
+    <property name="AlphabeticalOrder" display-name-key="AlphabeticalOrder" description-key="0=No 1=Yes" of-type="Enum" usage="input" required="false">
+          <value name="Yes" display-name-key="Yes" default="true">1</value>
+          <value name="No" display-name-key="No">0</value>
+    </property>
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/SearchPicklistPCF.css" order="1" />
+      <img path="img/MagnifyingGlass.png"/>
+    </resources>
+  </control>
+</manifest>
