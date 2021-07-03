@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxfwZxizHVGd5vjCLrdfe5GW9U3xeMntVh3geBPecniQaOZi/N1t1Wjj/+Mvy8CTqltkWzHBJ8ccFcKKryXCKg==",
+  "success": true,
+  "projectFilePath": "D:\\pcf_searchableOptionSet\\obj\\PowerAppsTools_dtl\\PowerAppsTools_dtl.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.7.4\\microsoft.powerapps.msbuild.pcf.1.7.4.nupkg.sha512",
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.7.4\\microsoft.powerapps.msbuild.solution.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
