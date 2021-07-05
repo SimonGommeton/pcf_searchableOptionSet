@@ -1,6 +1,6 @@
 # pcf_searchableOptionSet
 
-![PCF_SearchableOptionSet](https://user-images.githubusercontent.com/53188636/124469981-4e676380-dd9b-11eb-8e19-b72abd719025.gif)
+![PCF_SearchableOptionSet](https://user-images.githubusercontent.com/53188636/124472861-e9ae0800-dd9e-11eb-9bbc-8da1b8ad2389.gif)
 
 ## Searchable Option Set
 This component provides **PowerApps** users with a searchable and customizable OptionSet.
