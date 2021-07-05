@@ -13,21 +13,21 @@
     <Managed>2</Managed>
     <Publisher>
       <!-- Unique Publisher Name of Cds Solution -->
-      <UniqueName>SearchableOptionSet</UniqueName>
+      <UniqueName>SGSearchOptionSet</UniqueName>
       <LocalizedNames>
         <!-- Localized Cds Publisher Name in language code-->
-        <LocalizedName description="SearchableOptionSet" languagecode="1033" />
+        <LocalizedName description="SGSearchOptionSet" languagecode="1033" />
       </LocalizedNames>
       <Descriptions>
         <!-- Description of Cds Publisher in language code -->
-        <Description description="SearchableOptionSet" languagecode="1033" />
+        <Description description="SGSearchOptionSet" languagecode="1033" />
       </Descriptions>
       <EMailAddress xsi:nil="true"></EMailAddress>
       <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
       <!-- Customization Prefix for the Cds Publisher-->
-      <CustomizationPrefix>sop</CustomizationPrefix>
+      <CustomizationPrefix>sgso</CustomizationPrefix>
       <!-- Derived Option Value Prefix for the Customization Prefix of Cds Publisher -->
-      <CustomizationOptionValuePrefix>59064</CustomizationOptionValuePrefix>
+      <CustomizationOptionValuePrefix>94598</CustomizationOptionValuePrefix>
       <Addresses>
         <!-- Address of the Publisher-->
         <Address>

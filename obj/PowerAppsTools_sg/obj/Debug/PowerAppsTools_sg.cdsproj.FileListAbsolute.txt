@@ -1,3 +1,0 @@
-D:\pcf_searchablePicklist\pcf_searchablePicklist\obj\PowerAppsTools_sg\obj\Debug\PowerAppsTools_sg.cdsproj.CoreCompileInputs.cache
-D:\pcf_searchablePicklist\obj\PowerAppsTools_sg\obj\Debug\PowerAppsTools_sg.cdsproj.CoreCompileInputs.cache
-D:\pcf_searchableOptionSet\obj\PowerAppsTools_sg\obj\Debug\PowerAppsTools_sg.cdsproj.CoreCompileInputs.cache
