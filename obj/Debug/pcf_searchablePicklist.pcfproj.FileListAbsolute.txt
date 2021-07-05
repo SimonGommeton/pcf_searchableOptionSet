@@ -1,0 +1,2 @@
+D:\pcf_searchableOptionSet\obj\Debug\pcf_searchablePicklist.pcfprojAssemblyReference.cache
+D:\pcf_searchableOptionSet\obj\Debug\pcf_searchablePicklist.pcfproj.CoreCompileInputs.cache

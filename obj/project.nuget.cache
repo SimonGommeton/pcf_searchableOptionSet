@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dFYUL06PelnznFu+So6yprmYPDybSiEiFbGVXgHntOEdGsm8XzHzvEMrJk7vJP97+J2d+DIbrxfFoO19E6gQw==",
+  "success": true,
+  "projectFilePath": "D:\\pcf_searchableOptionSet\\pcf_searchablePicklist.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\SIMON-PC\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.7.4\\microsoft.powerapps.msbuild.pcf.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
