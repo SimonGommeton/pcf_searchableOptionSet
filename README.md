@@ -10,7 +10,7 @@ The component can be manually imported into the CDS using the solution file prov
 The component is compatible with the **_OptionSet_** data type in **CDS**.
 
 Users can modify the Searchbox's placeholder to any text modifying the "SearchBoxPlaceholder" parameter.
-They can also choose whether the component will or will not sort the the options in alphabetical order, by switching the "AlphabeticalOrder" parameter.
+They can also choose whether the component will or will not sort the options in alphabetical order, by switching the "AlphabeticalOrder" parameter.
 
 ## Other modifications
 
